@@ -1,4 +1,4 @@
-# Hey there! I'm Vince Clark Lanticse 👋 🏎️
+# Hey there! I'm Clark Lanticse 👋 🏎️
 
 <p align="left">
   <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&pause=1000&color=CE1141&width=500&lines=Information+Technology+Student;Software+QA+Engineer+%26+Data+Analyst;Full-Stack+Developer+(React+%2F+Django);Building+Async+Systems+with+Rust" alt="Typing SVG" />
