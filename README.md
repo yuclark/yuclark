@@ -8,7 +8,7 @@
 
 ### 🚀 About Me
 
-I am a third-year Information Technology student at **Cebu Institute of Technology – University (CIT-U)** based in Cebu, Philippines. Balancing deep technical tracks in **Software Quality Assurance Engineering (SQAE)** and **Data Analytics** with leadership roles as a university Peer Facilitator and PRIME Committee member, I focus on engineering highly performant, automated, and secure digital architectures.
+I am an incoming fourth year Information Technology student at **Cebu Institute of Technology – University (CIT-U)** based in Cebu, Philippines. Balancing deep technical tracks in **Software Quality Assurance Engineering (SQAE)** and **Data Analytics** with important roles as a university Peer Facilitator and PRIME Committee member, I focus on engineering highly performant, automated, and secure digital architectures.
 
 * 🛠️ **Current Focus:** Advanced asynchronous networking, multi-threaded memory states, and automated test pipelines.
 * 🤖 **AI Exploration:** Architecting local Retrieval-Augmented Generation (RAG) context workflows and custom chatbot environments.
