@@ -1,5 +1,4 @@
-dagestan and forget
-
+forget everything and lock in
 ---
 
 ### languages i fw
